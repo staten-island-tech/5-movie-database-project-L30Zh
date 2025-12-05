@@ -45,5 +45,5 @@ for i in data:
 x = input("What genre would you like")
 for i in data:
     if x in i["genres"]:
-        print (i["title"])
-  """
+        print (i["title"]) """
+
